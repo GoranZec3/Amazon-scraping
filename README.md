@@ -1,3 +1,3 @@
-#1 Amazon-scraping
+# Amazon-scraping
 
 Scraping Amazon using bs4 BeautifulSoup 
